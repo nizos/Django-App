@@ -17,5 +17,3 @@ You should now be able to visit the website at: http://127.0.0.1:8000/
 
 ## Contributers
 Andreas & Nizar.
-
---
