@@ -51,7 +51,7 @@ pyhton3 --version
 ```
 ```Bash
 python3 -m pip --version
-# pip 9.0.1 from /usr/lib/python3/dist-packages (python 3.6)
+# pip 20.0.2 from /home/nizar/.local/lib/python3.6/site-packages/pip (python 3.6)
 ```
 ```Bash
 python3 -m django --version
@@ -59,5 +59,5 @@ python3 -m django --version
 ```
 
 ## Contributors
-Andreas, Nizar, Rickard & Wissam.
+Andreas, Nizar, Rickard, Joel & Wissam.
 
