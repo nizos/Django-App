@@ -56,6 +56,7 @@ python3 -m django --version
 # 2.2
 ```
 
+
 ## Contributors
 Andreas, Nizar, Rickard & Wissam.
 
