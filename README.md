@@ -58,3 +58,4 @@ python3 -m django --version
 
 ## Contributors
 Andreas, Nizar, Rickard & Wissam.
+
