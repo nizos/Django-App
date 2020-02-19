@@ -1,5 +1,6 @@
 # Django App
 
+
 ## About
 This is an implementation of a Django tutorial from [djangoproject](https://docs.djangoproject.com/en/3.0/intro/tutorial01/).
 
@@ -41,6 +42,7 @@ sudo apt install python3-pip
 python3 -m pip install Django==2.2
 ```
 
+
 #### Check versions
 
 ```Bash
@@ -55,7 +57,6 @@ python3 -m pip --version
 python3 -m django --version
 # 2.2
 ```
-
 
 ## Contributors
 Andreas, Nizar, Rickard & Wissam.
