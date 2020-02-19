@@ -16,4 +16,4 @@ python manage.py runserver
 You should now be able to visit the website at: http://127.0.0.1:8000/
 
 ## Contributors
-Andreas, Nizar & Rickard.
+Andreas, Nizar, Rickard & Wissam.
